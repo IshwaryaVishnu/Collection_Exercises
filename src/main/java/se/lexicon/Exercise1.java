@@ -6,7 +6,7 @@ public class Exercise1 {
         week.add("Sunday");
         week.add("Monday");
         week.add("Tuesday");
-        week.add("wednesday");
+        week.add("Wednesday");
         week.add("Thursday");
         week.add("Friday");
         week.add("Saturday");
